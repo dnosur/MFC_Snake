@@ -1,0 +1,5 @@
+#pragma once
+
+#define FIELD_COLOR RGB(156, 226, 166)
+#define SNAKE_COLOR RGB(231, 222, 143)
+#define APPLE_COLOR RGB(224, 132, 150)
